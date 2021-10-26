@@ -1,4 +1,4 @@
-# Introduction to Machine Learning
+# Data Mining
 
 ISP565 Data Mining class with Dr Shuzlina
 
