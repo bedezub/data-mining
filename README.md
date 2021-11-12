@@ -8,4 +8,7 @@ ISP565 Data Mining class with Dr Shuzlina
   
   ### Content of the repository
       
-  - *Will update more in the future...*
+  - Lab 1
+  - Lab 2
+  - Lab 3
+  - Lab Exercise (Lab Test Exercise)
