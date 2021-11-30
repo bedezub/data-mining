@@ -1,0 +1,1001 @@
+checking_status,duration,credit_history,purpose,savings_status
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',education,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,500<=X<1000
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,>=1000
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid',business,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','all paid',radio/tv,>=1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','delayed previously',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid','domestic appliance',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',repairs,<100
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',100<=X<500
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',furniture/equipment,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','all paid','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid',business,<100
+0<=X<200,'\'(26.666667-49.333333]\'','no credits/all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',repairs,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',>=1000
+'no checking','\'(26.666667-49.333333]\'','existing paid',education,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',other,<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',business,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',education,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(49.333333-inf)\'','no credits/all paid','used car','no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',business,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',other,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',education,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','no credits/all paid',repairs,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',>=1000
+0<=X<200,'\'(49.333333-inf)\'','no credits/all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,100<=X<500
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',other,<100
+'no checking','\'(-inf-26.666667]\'','all paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',business,100<=X<500
+>=200,'\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit',furniture/equipment,500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',repairs,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid','new car','no known savings'
+'no checking','\'(26.666667-49.333333]\'','delayed previously',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,>=1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid','new car',>=1000
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','all paid',business,100<=X<500
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','used car',>=1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',repairs,100<=X<500
+<0,'\'(-inf-26.666667]\'','all paid',retraining,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','domestic appliance',500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','new car',500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','all paid','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',business,<100
+<0,'\'(-inf-26.666667]\'','all paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,>=1000
+0<=X<200,'\'(26.666667-49.333333]\'','no credits/all paid',business,100<=X<500
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,<100
+<0,'\'(-inf-26.666667]\'','existing paid',retraining,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','no credits/all paid',business,<100
+>=200,'\'(26.666667-49.333333]\'','delayed previously',business,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',retraining,'no known savings'
+<0,'\'(-inf-26.666667]\'','no credits/all paid',business,<100
+>=200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',education,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(26.666667-49.333333]\'','no credits/all paid',repairs,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,>=1000
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','no credits/all paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+'no checking','\'(-inf-26.666667]\'','all paid',retraining,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','no credits/all paid','new car',100<=X<500
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',>=1000
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',furniture/equipment,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+0<=X<200,'\'(49.333333-inf)\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',business,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,500<=X<1000
+0<=X<200,'\'(26.666667-49.333333]\'','all paid','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',repairs,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','all paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid','used car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',other,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+>=200,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','no credits/all paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car','no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','new car',500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,>=1000
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',other,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,100<=X<500
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+<0,'\'(-inf-26.666667]\'','delayed previously',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',>=1000
+>=200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+0<=X<200,'\'(49.333333-inf)\'','existing paid','new car',100<=X<500
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car',100<=X<500
+<0,'\'(-inf-26.666667]\'','no credits/all paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','domestic appliance','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',education,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',education,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid','domestic appliance',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','no credits/all paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',education,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+>=200,'\'(-inf-26.666667]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(49.333333-inf)\'','critical/other existing credit','new car','no known savings'
+0<=X<200,'\'(49.333333-inf)\'','all paid',other,100<=X<500
+<0,'\'(26.666667-49.333333]\'','all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,>=1000
+<0,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',education,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,'no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','delayed previously',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',>=1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',furniture/equipment,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',other,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',repairs,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',repairs,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',>=1000
+<0,'\'(26.666667-49.333333]\'','existing paid',repairs,<100
+>=200,'\'(-inf-26.666667]\'','all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',other,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',repairs,>=1000
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','no credits/all paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid','domestic appliance',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',retraining,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',education,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',retraining,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',500<=X<1000
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,100<=X<500
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,>=1000
+'no checking','\'(-inf-26.666667]\'','delayed previously',furniture/equipment,>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',500<=X<1000
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car',100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','no credits/all paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','delayed previously','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',repairs,<100
+'no checking','\'(-inf-26.666667]\'','all paid',radio/tv,500<=X<1000
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','no credits/all paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','no credits/all paid','new car','no known savings'
+<0,'\'(-inf-26.666667]\'','all paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',business,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',retraining,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','domestic appliance',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',business,>=1000
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','all paid',other,'no known savings'
+'no checking','\'(-inf-26.666667]\'','all paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid',education,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','all paid',furniture/equipment,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid','domestic appliance',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,>=1000
+<0,'\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,<100
+0<=X<200,'\'(49.333333-inf)\'','delayed previously',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid','new car',100<=X<500
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',education,'no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','all paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','delayed previously',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',repairs,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',education,100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,'no known savings'
+<0,'\'(26.666667-49.333333]\'','no credits/all paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',education,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','no credits/all paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',furniture/equipment,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',other,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,>=1000
+'no checking','\'(26.666667-49.333333]\'','all paid',business,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+>=200,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',business,100<=X<500
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,100<=X<500
+'no checking','\'(49.333333-inf)\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,500<=X<1000
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(49.333333-inf)\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',business,100<=X<500
+'no checking','\'(49.333333-inf)\'','existing paid','new car',<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',repairs,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',business,100<=X<500
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',500<=X<1000
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,500<=X<1000
+<0,'\'(-inf-26.666667]\'','all paid',education,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(49.333333-inf)\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid','used car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','no credits/all paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid',education,>=1000
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid',business,<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,>=1000
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',>=1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','all paid','domestic appliance','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car',<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','no credits/all paid',business,100<=X<500
+<0,'\'(-inf-26.666667]\'','all paid','new car',100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','all paid',furniture/equipment,500<=X<1000
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,100<=X<500
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously',repairs,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car','no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit',education,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,100<=X<500
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit','new car',500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car',>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',repairs,<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',>=1000
+0<=X<200,'\'(-inf-26.666667]\'','no credits/all paid',retraining,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car','no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',education,<100
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,'no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously','new car','no known savings'
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','all paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+<0,'\'(26.666667-49.333333]\'','existing paid','domestic appliance',<100
+<0,'\'(26.666667-49.333333]\'','existing paid','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','domestic appliance',500<=X<1000
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',other,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','no credits/all paid',business,<100
+<0,'\'(26.666667-49.333333]\'','existing paid','used car','no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',business,'no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','no credits/all paid',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','no credits/all paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','delayed previously','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',repairs,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',retraining,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car',>=1000
+'no checking','\'(-inf-26.666667]\'','delayed previously',business,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,>=1000
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,'no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',furniture/equipment,500<=X<1000
+>=200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','domestic appliance','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',>=1000
+<0,'\'(-inf-26.666667]\'','all paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid',education,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',business,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','new car',<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously','used car','no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(26.666667-49.333333]\'','existing paid',education,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',business,>=1000
+<0,'\'(-inf-26.666667]\'','all paid',business,<100
+'no checking','\'(26.666667-49.333333]\'','no credits/all paid',other,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,500<=X<1000
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','all paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','all paid','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','delayed previously','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','delayed previously',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(49.333333-inf)\'','existing paid',education,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','used car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,'no known savings'
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+<0,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+0<=X<200,'\'(26.666667-49.333333]\'','no credits/all paid',radio/tv,500<=X<1000
+<0,'\'(-inf-26.666667]\'','all paid',furniture/equipment,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,100<=X<500
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',business,<100
+'no checking','\'(26.666667-49.333333]\'','delayed previously',business,<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,>=1000
+>=200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',furniture/equipment,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',repairs,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',radio/tv,'no known savings'
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(-inf-26.666667]\'','critical/other existing credit','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','existing paid',repairs,100<=X<500
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',<100
+<0,'\'(-inf-26.666667]\'','all paid','new car',<100
+<0,'\'(49.333333-inf)\'','existing paid',business,<100
+'no checking','\'(26.666667-49.333333]\'','critical/other existing credit',radio/tv,<100
+>=200,'\'(-inf-26.666667]\'','existing paid',radio/tv,500<=X<1000
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(-inf-26.666667]\'','delayed previously',radio/tv,'no known savings'
+'no checking','\'(-inf-26.666667]\'','delayed previously','new car',<100
+0<=X<200,'\'(-inf-26.666667]\'','all paid','new car',100<=X<500
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car',100<=X<500
+<0,'\'(26.666667-49.333333]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+<0,'\'(-inf-26.666667]\'','critical/other existing credit',furniture/equipment,<100
+>=200,'\'(26.666667-49.333333]\'','no credits/all paid',business,<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(-inf-26.666667]\'','existing paid','used car',<100
+0<=X<200,'\'(-inf-26.666667]\'','critical/other existing credit',radio/tv,<100
+'no checking','\'(-inf-26.666667]\'','critical/other existing credit',education,'no known savings'
+'no checking','\'(-inf-26.666667]\'','all paid',radio/tv,100<=X<500
+<0,'\'(-inf-26.666667]\'','existing paid',radio/tv,'no known savings'
+<0,'\'(26.666667-49.333333]\'','existing paid',furniture/equipment,<100
+'no checking','\'(-inf-26.666667]\'','existing paid','new car','no known savings'
+'no checking','\'(-inf-26.666667]\'','existing paid',furniture/equipment,<100
+'no checking','\'(26.666667-49.333333]\'','existing paid','used car',<100
+'no checking','\'(-inf-26.666667]\'','existing paid',radio/tv,<100
+<0,'\'(26.666667-49.333333]\'','existing paid',radio/tv,<100
+0<=X<200,'\'(26.666667-49.333333]\'','critical/other existing credit','used car',<100
